@@ -1,0 +1,11 @@
+{
+  "ID": "yandex-music-downloader-plugin",
+  "ActionKeyword": "yad",
+  "Name": "Yandex Music Downloader",
+  "Description": "Download track/album/playlist from Yandex Music",
+  "Author": "Slava_Gusak",
+  "Version": "1.0.0",
+  "Language": "python",
+  "ExecuteFileName": "main.py",
+  "IcoPath": "icon.png"
+}
