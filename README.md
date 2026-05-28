@@ -16,7 +16,6 @@ Built on top of [yandex-music-downloader](https://github.com/llistochek/yandex-m
 - Качество до FLAC (при наличии подписки Яндекс Плюс)
 - Обложка в оригинальном разрешении, встроенная в файл
 - Автоматическая сортировка по папкам: `Артист / Альбом / Трек`
-- Автоматическая очистка UTM-меток из ссылок
 - Уведомления о начале и завершении загрузки
 - Первоначальная настройка токена прямо из Flow Launcher
 - Интерфейс на русском и английском языках
@@ -27,7 +26,6 @@ Built on top of [yandex-music-downloader](https://github.com/llistochek/yandex-m
 - Quality up to FLAC (requires Yandex Plus subscription)
 - Original resolution cover art embedded in the file
 - Automatic folder sorting: `Artist / Album / Track`
-- Automatic UTM tag stripping from links
 - Notifications on download start and completion
 - First-time token setup directly from Flow Launcher
 - Russian and English interface
